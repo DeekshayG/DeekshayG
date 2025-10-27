@@ -23,7 +23,7 @@ I enjoy building real-world projects that combine creativity with logic — from
 
 Here are some of the projects I’ve worked on:
 
-- 🏧 **[ATM Database Management System](#)** – SQL-based project to manage ATM operations like deposits, withdrawals, and authentication.  
+- 🏧 **[ATM Database Management System](ATM_Database)** – SQL-based project to manage ATM operations like deposits, withdrawals, and authentication.  
 - 📅 **Event Management App** – A college-level web app to organize and manage tech fests and events efficiently.  
 - 🤖 **AI Compliance Case Study** – Research-based project on integrating AI in compliance and risk management systems.  
 
@@ -35,17 +35,17 @@ Here are some of the projects I’ve worked on:
 `Python` | `Java` | `SQL` | `HTML` | `CSS` | `JavaScript`
 
 **Databases & Tools:**  
-`MySQL` | `XAMPP` | `VS Code` | `Git & GitHub`
+`MySQL` | `VS Code` | `Git & GitHub` 
 
 **Areas of Interest:**  
-`Software Development` | `Database Design` | `AI & Machine Learning` | `System Design`
+`Software Development` | `Database Design` | `AI & Machine Learning` | `Full Stack Development`
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 **Email:** [deekshayg@example.com](mailto:deekshayg17@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/deekshayg](Deekshay G)   
+- 💼 **LinkedIn:** [linkedin.com/in/deekshayg](DeekshayG)   
 - 🏠 **GitHub:** [github.com/DeekshayG](DeekshayG)
 
 ---
