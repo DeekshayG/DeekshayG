@@ -12,7 +12,7 @@ I enjoy building real-world projects that combine creativity with logic — from
 
 - 🎓 Currently pursuing my studies in **Computer Science and Engineering**.  
 - 🧠 Interested in **Web Development, Databases and Artificial Intelligence**.  
-- 🏗️ Love to design structured systems like **ATM Database Management**, **Event Management Systems**, and **Automation Tools**.  
+- 🏗️ Love to design structured systems like **ATM Database Management**, **Event Management Systems**.  
 - 🌱 Currently learning **SQL, and JavaScript frameworks** to strengthen my full-stack skills.  
 - ⚙️ Familiar with tools like **VS Code, Git and MySQL Workbench**.  
 - 💬 I enjoy collaborating, learning from peers, and contributing to open-source projects.
