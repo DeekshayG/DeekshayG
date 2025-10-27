@@ -45,7 +45,7 @@ Here are some of the projects I’ve worked on:
 ## 📫 Connect With Me
 
 - 📧 **Email:** [deekshayg17@gmail.com](mailto:deekshayg17@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/deekshayG](DeekshayG)   
+- 💼 **LinkedIn:** [linkedin.com/in/deekshay G](DeekshayG)   
 - 🏠 **GitHub:** [github.com/DeekshayG](DeekshayG)
 
 ---
