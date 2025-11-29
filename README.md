@@ -3,7 +3,7 @@
 💻 **Aspiring Software Engineer | Tech Enthusiast | Problem Solver**
 
 Welcome to my GitHub profile!  
-I’m passionate about **software development, databases, and innovative tech solutions**.  
+I’m passionate about **software development and innovative tech solutions**.  
 I enjoy building real-world projects that combine creativity with logic — from backend database systems to full-stack applications.
 
 ---
@@ -11,8 +11,6 @@ I enjoy building real-world projects that combine creativity with logic — from
 ## 🚀 About Me
 
 - 🎓 Currently pursuing my studies in **Computer Science and Engineering**.  
-- 🧠 Interested in **Web Development, Databases and Artificial Intelligence**.  
-- 🏗️ Love to design structured systems like **ATM Database Management**, **Event Management Systems**.  
 - 🌱 Currently learning **SQL, and JavaScript frameworks** to strengthen my full-stack skills.  
 - ⚙️ Familiar with tools like **VS Code, Git and MySQL Workbench**.  
 - 💬 I enjoy collaborating, learning from peers, and contributing to open-source projects.
